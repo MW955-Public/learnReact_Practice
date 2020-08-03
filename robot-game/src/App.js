@@ -1,10 +1,13 @@
-import React from 'react';
-
-
+import React, {Component} from 'react';
+import Layout from './components/Layout/Layout';
+import RobotBuilder from './containers/RobotBuilder/RobotBuilder'
 
 function App() {
   return (
-    <div >
+      <div >
+          <Layout>
+              <RobotBuilder />
+          </Layout>
       
     </div>
   );
