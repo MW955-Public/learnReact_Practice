@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from '../RobotSkin/RobotSkin.css'
+import classes from '../RobotSkin/RobotSkin.module.css'
 import PropTypes from 'prop-types'
 import { Component } from 'react';
 

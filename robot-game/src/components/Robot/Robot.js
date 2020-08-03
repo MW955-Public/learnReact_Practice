@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from '../Robot/Robot.css'
+import classes from '../Robot/Robot.module.css'
 import RobotSkin from './RobotSkin/RobotSkin'
 const robot = (props) => {
     return (
