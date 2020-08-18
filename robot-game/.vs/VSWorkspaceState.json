@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Layout",
+    "\\src\\components\\Robot",
+    "\\src\\components\\Robot\\RobotSkin",
+    "\\src\\containers",
+    "\\src\\containers\\RobotBuilder",
+    "\\src\\hoc"
+  ],
+  "SelectedNode": "\\src\\components\\Robot\\Robot.js",
+  "PreviewInSolutionExplorer": false
+}

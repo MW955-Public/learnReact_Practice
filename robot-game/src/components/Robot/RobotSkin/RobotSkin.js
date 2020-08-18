@@ -11,10 +11,10 @@ class RobotSkin extends Component  {
                 skin = <div className={classes.Skin1}>123</div>;
                 break;
             case ('skin2'):
-                skin = <div className={classes.Skin2}>123</div>;
+                skin = <div className={classes.Skin2}>456</div>;
                 break;
             case ('skin3'):
-                skin = <div className={classes.Skin3}>123</div>;
+                skin = <div className={classes.Skin3}>789</div>;
                 break;
             default:
                 skin = null;
